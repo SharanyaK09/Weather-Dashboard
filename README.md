@@ -37,5 +37,5 @@ OpenWeatherMap API – For fetching real-time weather data.
 <img width="1920" height="899" alt="2025-08-11 (5)" src="https://github.com/user-attachments/assets/3076d788-2b20-4ee8-9c66-71fe62beea82" />
 
 
-🖼 Font Awesome – For icons in the UI.
+
 
