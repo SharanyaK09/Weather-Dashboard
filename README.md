@@ -4,7 +4,8 @@
 This project is a React-based Weather Dashboard that allows users to search for any city and get real-time weather information along with a 5-day forecast. It integrates with the OpenWeatherMap API to fetch accurate weather data, and features a modern, responsive design with recent search history and animated weather icons.
 
 Users can quickly view details such as temperature, humidity, wind speed, and more. Recent searches are saved for quick access, with the option to delete entries.
-
+## Demo
+Live demo: http://fastidious-fairy-3eb2d1.netlify.app
 ## Features
 City Search – Search for any city worldwide and get instant results.
 
